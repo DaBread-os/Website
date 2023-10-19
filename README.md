@@ -1,2 +1,2 @@
-# Website
-Our very special site :)
+# Web Workshop
+Welcome to our repos!
